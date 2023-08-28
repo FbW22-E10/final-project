@@ -21,7 +21,7 @@ The main focus of this module is to work in a team and collaboratively design an
 
 The team will share responsibilities but will also define roles:
 
-- **Project Manager** - This role involves team communication and coordination. The Project Manager is responsible for arranging team meetings and ensuring the group's progress remains oencourage shared decision-makingn course.
+- **Project Manager** - This role involves team communication and coordination. The Project Manager is responsible for arranging team meetings and ensuring the group's progress remains on course.
 
 - **Repository Maintainer** - The Repository Maintainer is for enforcing correct GIT processes, including ensuring team members refrain from direct commits to the main/master branch. Additionally, they oversee the integration of new features through the PR (pull request) system.
 
