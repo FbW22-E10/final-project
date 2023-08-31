@@ -1,7 +1,8 @@
 # Git & Github
 
-## Git commands
-
+1. [Terms](#terms)
+2. [The benefits of Version Control](#the-benefits-of-version-control)
+3. [Git commands](#git-commands)
 - [Getting & Creating](#getting-and-creating)
 - [Basic Snap-shooting](#basic-snapshotting)
 - [Sharing and Updating Projects](#sharing-and-updating-projects)
@@ -9,12 +10,7 @@
 - [Inspection and Comparison](#inspection-and-comparison)
 - [Branching](#branching-commands)
 
-<br/>
-
-5. [Push your code to Github](#push-your-code-to-github)
-6. [Pull changes from remote repo](#pull-changes-from-remote-repo-to-your-local-machine)
-7. [Git Branching](#git-branching)
-8. [External Resources](#external-resources)
+4. [External Resources](#external-resources)
 
 <br/>
 
