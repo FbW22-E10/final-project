@@ -1,6 +1,6 @@
 # Git & Github
 
-[Git commands](#git-commands)
+## Git commands
 
 - [Getting & Creating](#getting-and-creating)
 - [Basic Snap-shooting](#basic-snapshotting)
@@ -18,7 +18,7 @@
 
 <br/>
 
-# Terms:
+## Terms:
 
 | Term                   | Short definition                                                                                     |
 | ---------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@
 
 <br/>
 
-# The benefits of Version Control:
+## The benefits of Version Control:
 
 - Save an initial version of our code
 - Register a complete long-term change history of every file
@@ -43,9 +43,9 @@
 
 <br/>
 
-# Git commands
+## Git commands
 
-## Getting and Creating
+### Getting and Creating
 
 | Command                                                    | Description                                |
 | ---------------------------------------------------------- | ------------------------------------------ |
@@ -54,7 +54,7 @@
 
 <br/>
 
-## Basic Snapshotting
+### Basic Snapshotting
 
 | Command                          | Description                                        |
 | -------------------------------- | -------------------------------------------------- |
@@ -66,7 +66,7 @@
 
 <br/>
 
-## Sharing and Updating Projects
+### Sharing and Updating Projects
 
 | Command                                                                | Description                                                       |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -79,7 +79,7 @@
 
 <br/>
 
-## Remove and change the URL for a remote git repository
+### Remove and change the URL for a remote git repository
 
 | Command                                   | Description                                                                   |
 | ----------------------------------------- | ----------------------------------------------------------------------------- |
@@ -98,7 +98,7 @@ zkh@zkh ~/Desktop/square (main) $ git remote -v
 
 <br/>
 
-## Inspection and Comparison
+### Inspection and Comparison
 
 | Command                                   | Description                    |
 | ----------------------------------------- | ------------------------------ |
@@ -109,7 +109,7 @@ zkh@zkh ~/Desktop/square (main) $ git remote -v
 
 <br/>
 
-# Branching
+## Branching
 
 In a nutshell, Git branches allow developers to diverge from the main branch by creating separate branches to isolate code changes. The default branch in Git is the master branch and any other branch we create is referred to as a feature branch and we have the permission to name it whatever we want.
 
