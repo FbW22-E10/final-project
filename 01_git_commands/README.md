@@ -3,13 +3,12 @@
 1. [Terms](#terms)
 2. [The benefits of Version Control](#the-benefits-of-version-control)
 3. [Git commands](#git-commands)
-- [Getting & Creating](#getting-and-creating)
-- [Basic Snap-shooting](#basic-snapshotting)
-- [Sharing and Updating Projects](#sharing-and-updating-projects)
-- [Remove and change remote](#remove-and-change-the-url-for-a-remote-git-repository)
-- [Inspection and Comparison](#inspection-and-comparison)
-- [Branching](#branching-commands)
-
+	- [Getting & Creating](#getting-and-creating)
+	- [Basic Snap-shooting](#basic-snapshotting)
+	- [Sharing and Updating Projects](#sharing-and-updating-projects)
+	- [Remove and change remote](#remove-and-change-the-url-for-a-remote-git-repository)
+	- [Inspection and Comparison](#inspection-and-comparison)
+	- [Branching](#branching-commands)
 4. [External Resources](#external-resources)
 
 <br/>
